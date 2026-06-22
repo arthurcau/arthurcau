@@ -1,16 +1,38 @@
-## Hi there 👋
+# Arthur E. Cau
 
-<!--
-**arthurcau/arthurcau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering student at UNICAMP, focused on aerospace structures, aerodynamics, CAE/CFD, experimental validation and Linux-based engineering workflows.
 
-Here are some ideas to get you started:
+I work with experimental rocketry, structural analysis, numerical simulation and engineering automation. My current interests include the connection between physical modeling, simulation, manufacturing, testing and technical documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+* Rocket structures and aerodynamics
+* Finite Element Analysis and Computational Fluid Dynamics
+* OpenFOAM, CalculiX, ParaView and Python for engineering applications
+* Linux-based CAE/CFD infrastructure
+* Experimental testing, data analysis and validation
+* Hybrid rocket propulsion research and experimental rocketry
+
+## Tools and technologies
+
+**Engineering & Simulation:** OpenFOAM, CalculiX, Ansys, ParaView
+**CAD:** Creo Parametric, CATIA, SolidWorks
+**Programming & Data:** Python, MATLAB, C/C++
+**Systems:** Linux, Git, Bash, SSH
+**Manufacturing:** Composite materials, 3D printing, mechanical prototyping
+
+## What I am building here
+
+This GitHub is being organized as a public technical portfolio with simplified and educational engineering projects, including:
+
+* CFD and FEA studies
+* Python tools for engineering analysis
+* Linux/CAE documentation
+* Reproducible simulation workflows
+* Data analysis for experimental testing
+
+The goal is to document engineering problems clearly: assumptions, methodology, results, limitations and next steps.
+
+## Links
+
+* LinkedIn: linkedin.com/in/cau-a-e
